@@ -1,0 +1,17 @@
+[project]
+name = "ai301-dl-hw1"
+version = "0.1.0"
+description = "All you need for project 1 of AI301 Deep Learning"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "lightgbm>=4.7.0",
+    "lightning>=2.6.6",
+    "matplotlib>=3.11.2",
+    "mlflow>=3.16.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "torch>=2.14.0",
+]

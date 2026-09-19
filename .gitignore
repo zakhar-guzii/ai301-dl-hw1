@@ -1,0 +1,14 @@
+/data
+src/__pycache__
+
+.DS_Store
+notebooks/.DS_Store
+.venv
+mlflow.db
+mlruns/
+models/*
+!models/.gitkeep
+submissions/
+
+/report/*
+!/report/report.pdf
